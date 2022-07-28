@@ -36,14 +36,17 @@ this is my repeat submission for the Graph Theory module. I first had to create 
 
 ## To Use
 
-* Start by cloning the repository into a folder
-git clone https://github.com/CiaranGavigan/GraphTheoryAutumn
+* Start by cloning the repository into a folder.
 
-* cd into the correct folder
-cd graphTheoryAutumn
+``git clone https://github.com/CiaranGavigan/GraphTheoryAutumn``
 
-* Run the command jupyter notebook to launch jupyter which will then open a browser window with your notebook
-jupyter notebook
+* cd into the correct folder.
+
+``cd graphTheoryAutumn``
+
+* Run the command jupyter notebook to launch jupyter which will then open a browser window with your notebook.
+
+``jupyter notebook``
 
 * Then you can read and edit the notebooks yourself.
 
