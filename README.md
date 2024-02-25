@@ -1,4 +1,4 @@
-# Graph Theory Autumn
+# Graph Theory 
 
 this is my repeat submission for the Graph Theory module. I first had to create two Jupyter Notebooks, before researching and discussing the Heap Sort Algorithm and The Graph Isomorphism Problem.
 
